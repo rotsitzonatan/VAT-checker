@@ -1,0 +1,11 @@
+# XAMPP / temporary files
+*.log
+*.tmp
+*.bak
+
+# IDEs
+.idea/
+.vscode/
+
+# Composer / PHP dependencies
+/vendor/
